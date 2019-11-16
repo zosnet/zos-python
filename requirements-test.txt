@@ -1,5 +1,5 @@
 graphenelib
-pycryptodome==3.4.6
+pycryptodome==3.6.6
 scrypt==0.7.1
 Events==0.2.2
 pyyaml
