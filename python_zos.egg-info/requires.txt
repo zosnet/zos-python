@@ -1,0 +1,6 @@
+graphenelib
+websockets
+appdirs
+Events
+scrypt
+pycryptodome
